@@ -44,6 +44,8 @@
 <link rel="stylesheet" href="css/flexslider.css">
 <!-- Flexslider -->
 <link rel="stylesheet" href="css/cd-hero.css">
+<!-- Slider Mobile Improvements -->
+<link rel="stylesheet" href="css/slider-mobile-improvements.css">
 <!-- Style Swicther -->
 <link id="style-switch" href="css/presets/preset5.css" media="screen" rel="stylesheet" type="text/css">
 
