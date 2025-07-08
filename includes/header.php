@@ -8,9 +8,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="navbar-brand navbar-bg">
+            <div class="navbar-brand logo-container">
                 <a href="https://www.oaliv.com/">
-                    <img class="img-responsive" src="images/logo.png" alt="logo">
+                    <img class="logo img-responsive" src="images/logo.png" alt="Oaliv Logo">
                 </a>
             </div>
         </div>
