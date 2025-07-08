@@ -3476,6 +3476,10 @@ section h1 {
         font-size: 28px !important;
         line-height: 36px !important;
     }
+    
+    .navbar-toggle {
+        margin-top: 15px !important; /* Ajustez cette valeur selon vos besoins pour le hamburger menu sur mobile */
+    }
 }
 
 /* Styles spécifiques selon les presets de couleur */
