@@ -141,7 +141,7 @@
 							<p>Si vous avez des questions, n'hésitez pas à nous contacter</p>
 							<br>
 							<p><i class="fa fa-home info"></i> Logpom, Douala, Cameroun </p>
-							<p><i class="fa fa-phone info"></i> +(237) 6 91 96 21 58 / +(33) 7 64 28 90 29</p>
+							<p><i class="fa fa-phone info"></i> +(237) 6 91 96 21 58 / +(33) 6 91 96 21 58</p>
 							<p><i class="fa fa-envelope-o info"></i> info@oaliv.com</p>
 							<p><i class="fa fa-globe info"></i> www.oaliv.com</p>
 						</div>
