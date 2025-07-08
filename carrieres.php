@@ -73,7 +73,7 @@
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
 				<div class="text-center">
-					<h2>OFFRES D'EMPLOIS</h2>
+					<h1>Carrières</h1>
 					<ul class="breadcrumb">
 						<li>Accueil</li>
 						<li>Entreprise</li>

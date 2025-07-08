@@ -74,7 +74,7 @@
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
 				<div class="text-center">
-					<h2>Nous contacter</h2>
+					<h1>Nous Contacter</h1>
 					<ul class="breadcrumb">
 						<li>Accueil</li>
 						<li><a href="#"> Contact</a></li>

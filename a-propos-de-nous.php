@@ -76,7 +76,7 @@
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
 				<div class="text-center">
-					<h2>À PROPOS DE NOUS</h2>
+					<h1>À Propos de Nous</h1>
 					<ul class="breadcrumb">
 						<li>Accueil</li>
 						<li>Entreprise</li>

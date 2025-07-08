@@ -74,7 +74,7 @@
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
 				<div class="text-center">
-					<h2>Services</h2>
+					<h1>Nos Services</h1>
 					<ul class="breadcrumb">
 						<li>Accueil</li>
 						<li><a href="#">Nos Services</a></li>
@@ -93,7 +93,7 @@
 				<div class="row">
 					<div class="col-md-12 heading">
 						<span class="title-icon pull-left"><i class="fa fa-cogs"></i></span>
-						<h2 class="title">Nos Services <span class="title-desc">Nous nous associons à de grandes entreprises et à des PME ambitieuses pour proposer des sites Web, des logiciels et une UX primés. Associez-vous à nous pour concevoir des produits numériques percutants.</span></h2>
+						<h2 class="title">Découvrez notre expertise <span class="title-desc">Nous nous associons à de grandes entreprises et à des PME ambitieuses pour proposer des sites Web, des logiciels et une UX primés. Associez-vous à nous pour concevoir des produits numériques percutants.</span></h2>
 					</div>
 				</div><!-- Title row end -->
 

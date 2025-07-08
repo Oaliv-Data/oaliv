@@ -75,10 +75,10 @@
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
 				<div class="text-center">
-					<h2>NOS RÉALISATIONS</h2>
+					<h1>Nos Réalisations</h1>
 					<ul class="breadcrumb">
 						<li>Accueil</li>
-						<li><a href="#">Nos realisations</li>
+						<li><a href="#">Nos realisations</a></li>
 					</ul>
 				</div>
 			</div><!-- Subpage title end -->
