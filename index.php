@@ -4,9 +4,9 @@
 
 <head>
 	<!-- Primary Meta Tags -->
-	<title>Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun - Oaliv</title>
-	<meta name="title" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun - Oaliv">
-	<meta name="description" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun">
+	<title><?= WEBSITE_TITLE ?></title>
+	<meta name="title" content="<?= WEBSITE_TITLE ?>">
+	<meta name="description" content="<?= WEBSITE_DESCRIPTION ?>">
 	<?php include_once 'includes/head.php' ?>
 
 </head>
@@ -105,18 +105,18 @@
 				<ul class="cd-hero-slider">
 					<li class="selected">
 						<div class="overlay2">
-							<img class="" src="images/slider/bg1.jpg" alt="slider">
+							<img class="" src="images/slider/bg1.jpg" alt="Agence web et marketing digital Douala Cameroun - Solutions digitales innovantes">
 						</div>
 						<div class="cd-full-width">
-							<h2>Agence web et de marketing digital</h2>
-							<h3>Nous rendons possible de grandes choses</h3>
+							<h1>Agence web et de marketing digital</h1>
+							<h2>Nous rendons possible de grandes choses</h2>
 							<a href="nos-services" class="btn btn-primary white cd-btn">Commencez</a>
 							<a href="a-propos-de-nous" class="btn btn-primary solid cd-btn">En savoir plus</a>
 						</div> <!-- .cd-full-width -->
 					</li>
 					<li>
 						<div class="overlay2">
-							<img class="" src="images/slider/bg2.jpg" alt="slider">
+							<img class="" src="images/slider/bg2.jpg" alt="Agence marketing digital Cameroun - Votre partenaire pour le succès en ligne">
 						</div>
 						<div class="cd-half-width">
 							<h2>Jusqu'où pouvez-vous rêver ?</h2>
@@ -131,7 +131,7 @@
 					</li>
 					<li>
 						<div class="overlay2">
-							<img class="" src="images/slider/bg3.jpg" alt="slider">
+							<img class="" src="images/slider/bg3.jpg" alt="Agence web créative Cameroun - Votre défi est notre progrès">
 						</div>
 						<div class="cd-half-width cd-img-container img-right">
 							<img src="images/slider/bg-thumb2.png" alt="">

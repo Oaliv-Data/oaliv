@@ -26,26 +26,26 @@
 	================================================== -->
 
 <!-- Bootstrap -->
-<link rel="stylesheet" href="../css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- Template styles-->
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="css/style.css">
 <!-- Responsive styles-->
-<link rel="stylesheet" href="../css/responsive.css">
+<link rel="stylesheet" href="css/responsive.css">
 <!-- FontAwesome -->
-<link rel="stylesheet" href="../css/font-awesome.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
 <!-- Animation -->
-<link rel="stylesheet" href="../css/animate.css">
+<link rel="stylesheet" href="css/animate.css">
 <!-- Prettyphoto -->
-<link rel="stylesheet" href="../css/prettyPhoto.css">
+<link rel="stylesheet" href="css/prettyPhoto.css">
 <!-- Owl Carousel -->
-<link rel="stylesheet" href="../css/owl.carousel.css">
-<link rel="stylesheet" href="../css/owl.theme.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
 <!-- Flexslider -->
-<link rel="stylesheet" href="../css/flexslider.css">
+<link rel="stylesheet" href="css/flexslider.css">
 <!-- Flexslider -->
-<link rel="stylesheet" href="../css/cd-hero.css">
+<link rel="stylesheet" href="css/cd-hero.css">
 <!-- Style Swicther -->
-<link id="style-switch" href="../css/presets/preset5.css" media="screen" rel="stylesheet" type="text/css">
+<link id="style-switch" href="css/presets/preset5.css" media="screen" rel="stylesheet" type="text/css">
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
 <!--[if lt IE 9]>
@@ -58,17 +58,31 @@
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.facebook.com/oalivinc/">
-<meta property="og:title" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun">
-<meta property="og:description" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun">
-<meta property="og:image" content="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/314498497_139541402170417_1643545478826933458_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4Vdv_CWR5R8AX8KMXOM&_nc_ht=scontent-iad3-2.xx&oh=00_AfDK0_CJgMO3Fvet7KMl524T0byw-EHjnp9GH_Km03o75g&oe=64BE7BC8">
+<meta property="og:url" content="https://www.oaliv.com/">
+<meta property="og:site_name" content="Oaliv">
+<meta property="og:title" content="Oaliv - Agence Web & Marketing Digital | Douala Cameroun">
+<meta property="og:description" content="Oaliv est votre agence web experte à Douala, Cameroun. Création de sites web, applications mobiles, SEO, marketing digital. Plus de 100 clients satisfaits.">
+<meta property="og:image" content="https://www.oaliv.com/images/logo.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="fr_FR">
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://twitter.com/oalivinc">
-<meta property="twitter:title" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun">
-<meta property="twitter:description" content="Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun">
-<meta property="twitter:image" content="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/314498497_139541402170417_1643545478826933458_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4Vdv_CWR5R8AX8KMXOM&_nc_ht=scontent-iad3-2.xx&oh=00_AfDK0_CJgMO3Fvet7KMl524T0byw-EHjnp9GH_Km03o75g&oe=64BE7BC8">
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@oalivinc">
+<meta name="twitter:creator" content="@oalivinc">
+<meta name="twitter:url" content="https://www.oaliv.com/">
+<meta name="twitter:title" content="Oaliv - Agence Web & Marketing Digital | Douala Cameroun">
+<meta name="twitter:description" content="Oaliv est votre agence web experte à Douala, Cameroun. Création de sites web, applications mobiles, SEO, marketing digital. Plus de 100 clients satisfaits.">
+<meta name="twitter:image" content="https://www.oaliv.com/images/logo.png">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://www.oaliv.com/" />
+
+<!-- DNS Prefetch pour améliorer les performances -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SFXL464BRV"></script>
@@ -81,4 +95,68 @@
   gtag('js', new Date());
 
   gtag('config', 'G-SFXL464BRV');
+</script>
+
+<!-- Schema.org Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Oaliv",
+  "url": "https://oaliv.com",
+  "logo": "https://oaliv.com/images/logo.png",
+  "description": "Agence web et de marketing digital à Douala - Meilleure Agence web et de marketing digital au Cameroun",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Douala",
+    "addressCountry": "CM"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Service client",
+    "email": "info@oaliv.com"
+  },
+  "sameAs": [
+    "https://www.facebook.com/oalivinc/",
+    "https://twitter.com/oalivinc"
+  ],
+  "areaServed": "Cameroun",
+  "serviceType": [
+    "Développement web",
+    "Marketing digital",
+    "Création de sites web",
+    "Applications mobiles",
+    "SEO",
+    "UX/UI Design"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Oaliv",
+  "image": "https://oaliv.com/images/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Douala",
+    "addressCountry": "CM"
+  },
+  "url": "https://oaliv.com",
+  "telephone": "",
+  "email": "info@oaliv.com",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday", 
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "18:00"
+  }
+}
 </script>

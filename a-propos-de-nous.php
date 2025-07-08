@@ -4,9 +4,9 @@
 
 <head>
 	<!-- Primary Meta Tags -->
-	<title>À propos de nous - Agence web et de marketing digital à Douala Cameroun - Oaliv</title>
-	<meta name="title" content="À propos de nous - Agence web et de marketing digital à Douala Cameroun - Oaliv">
-	<meta name="description" content="À propos de nous - Agence web et de marketing digital à Douala Cameroun - Oaliv">
+	<title>À Propos de Nous - Agence Web Innovante | Oaliv Douala Cameroun</title>
+	<meta name="title" content="À Propos de Nous - Agence Web Innovante | Oaliv Douala Cameroun">
+	<meta name="description" content="Découvrez Oaliv, votre agence web experte à Douala. Plus de 100 clients satisfaits, 80+ projets réalisés. Innovation et excellence dans le digital depuis plusieurs années.">
 	<?php include_once 'includes/head.php' ?>
 
 </head>

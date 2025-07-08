@@ -1,4 +1,21 @@
 User-Agent: *
-Allow: /*
+Allow: /
 
+# Interdire l'indexation des fichiers sensibles
+Disallow: /config.php
+Disallow: /includes/
+Disallow: /*.log$
+Disallow: /forms/
+Disallow: /js/
+Disallow: /css/
+
+# Autoriser spécifiquement les ressources importantes pour le SEO
+Allow: /css/style.css
+Allow: /images/
+Allow: /fonts/
+
+# Sitemap
 Sitemap: https://www.oaliv.com/sitemap.xml
+
+# Délai entre les requêtes (en secondes) - optionnel
+Crawl-delay: 1

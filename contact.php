@@ -4,9 +4,9 @@
 
 <head>
 	<!-- Primary Meta Tags -->
-	<title>Contact - Agence web et de marketing digital à Douala Cameroun - Oaliv</title>
-	<meta name="title" content="Contact - Agence web et de marketing digital à Douala Cameroun - Oaliv">
-	<meta name="description" content="Contact - Agence web et de marketing digital à Douala Cameroun - Oaliv">
+	<title>Contact - Demandez un Devis Gratuit | Oaliv Douala Cameroun</title>
+	<meta name="title" content="Contact - Demandez un Devis Gratuit | Oaliv Douala Cameroun">
+	<meta name="description" content="Contactez Oaliv pour votre projet web ou mobile. Devis gratuit et personnalisé. Agence web à Douala, Cameroun. Réponse sous 24h garantie.">
 	<?php include_once 'includes/head.php' ?>
 
 </head>

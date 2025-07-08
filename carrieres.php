@@ -4,9 +4,9 @@
 
 <head>
 	<!-- Primary Meta Tags -->
-	<title>Carrières - Agence web et de marketing digital à Douala Cameroun - Oaliv</title>
-	<meta name="title" content="Carrières - Agence web et de marketing digital à Douala Cameroun - Oaliv">
-	<meta name="description" content="Carrières - Agence web et de marketing digital à Douala Cameroun - Oaliv">
+	<title>Carrières - Rejoignez Notre Équipe Web | Oaliv Douala Cameroun</title>
+	<meta name="title" content="Carrières - Rejoignez Notre Équipe Web | Oaliv Douala Cameroun">
+	<meta name="description" content="Rejoignez l'équipe Oaliv ! Opportunités de carrière dans le développement web, marketing digital et UX/UI design. Postulez maintenant à Douala, Cameroun.">
 	<?php include_once 'includes/head.php' ?>
 
 </head>
