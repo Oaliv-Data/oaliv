@@ -78,7 +78,7 @@
 				<div class="text-center">
 					<h2>À PROPOS DE NOUS</h2>
 					<ul class="breadcrumb">
-						<li>Home</li>
+						<li>Accueil</li>
 						<li>Entreprise</li>
 						<li><a href="#"> À propos de nous</a></li>
 					</ul>

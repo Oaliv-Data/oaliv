@@ -77,7 +77,7 @@
 				<div class="text-center">
 					<h2>NOS RÉALISATIONS</h2>
 					<ul class="breadcrumb">
-						<li>Home</li>
+						<li>Accueil</li>
 						<li><a href="#">Nos realisations</li>
 					</ul>
 				</div>

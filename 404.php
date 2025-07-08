@@ -59,7 +59,7 @@
 				<div class="text-center">
 					<h2>404 Error Page</h2>
 					<ul class="breadcrumb">
-						<li>Home</li>
+						<li>Accueil</li>
 						<li>Pages</li>
 						<li><a href="https://www.oaliv.com/"> Page d'erreur</a></li>
 					</ul>

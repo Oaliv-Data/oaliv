@@ -76,8 +76,7 @@
 				<div class="text-center">
 					<h2>Services</h2>
 					<ul class="breadcrumb">
-						<li>Home</li>
-						<li>Company</li>
+						<li>Accueil</li>
 						<li><a href="#">Nos Services</a></li>
 					</ul>
 				</div>

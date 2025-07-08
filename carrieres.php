@@ -75,7 +75,7 @@
 				<div class="text-center">
 					<h2>OFFRES D'EMPLOIS</h2>
 					<ul class="breadcrumb">
-						<li>Home</li>
+						<li>Accueil</li>
 						<li>Entreprise</li>
 						<li><a href="#"> Carrières</a></li>
 					</ul>
