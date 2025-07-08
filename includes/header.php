@@ -20,7 +20,7 @@
                 <li><a href="home">Accueil</a></li>
                 <li><a href="nos-services"> Nos Services</a></li>
                 <li><a href="nos-realisations">NOS RÉALISATIONS</a></li>
-                <li><a href="https://www.oaliv.com/blog/">Blog</a></li>
+                <li><a href="https://www.ludovicdev.com/guides-gratuits-simplifiez-votre-vie-numerique/">Blog</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">L'entreprise <i class="fa fa-angle-down"></i></a>
                     <div class="dropdown-menu">
