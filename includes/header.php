@@ -17,7 +17,7 @@
         <!--/ Logo end -->
         <nav class="collapse navbar-collapse clearfix" role="navigation">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="home">Accueil</a></li>
+                <li><a href="https://www.oaliv.com/">Accueil</a></li>
                 <li><a href="nos-services"> Nos Services</a></li>
                 <li><a href="nos-realisations">NOS RÉALISATIONS</a></li>
                 <li><a href="https://www.ludovicdev.com/guides-gratuits-simplifiez-votre-vie-numerique/">Blog</a></li>
