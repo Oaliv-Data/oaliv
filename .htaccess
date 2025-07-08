@@ -8,7 +8,7 @@ RewriteOptions inherit
 # Redirections https oaliv.com
 RewriteEngine On
 
-# Redirect www to non-www and force HTTPS
+# Redirect non-www to www and force HTTPS
 
 
 
@@ -30,10 +30,8 @@ RewriteRule ^a-propos-de-nous.html$  a-propos-de-nous.php [L]
 # Page d'erreur 404 personnalisée
 ErrorDocument 404 /404.php
 
-# Redirection HTTPS et suppression du www
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{HTTP_HOST} ^oaliv\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.oaliv\.com$
-RewriteRule ^/?$ "https://oaliv.com/" [R=301,L]
+# Redirection HTTPS et ajout du www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^oaliv\.com$ [NC]
+RewriteRule ^(.*)$ https://www.oaliv.com/$1 [R=301,L]
 
