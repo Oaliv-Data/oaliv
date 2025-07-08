@@ -164,6 +164,8 @@ h6 {
 h1 {
 	font-size: 36px;
 	line-height: 48px;
+	color: #1a1a1a; /* Couleur plus sombre et contrastée */
+    font-weight: 700; /* Poids de police plus épais */
 }
 
 h2 {
@@ -3386,4 +3388,118 @@ a.close-styler {
 
 .style-switch-wrapper #preset6 {
 	background-color: #000;
+}
+
+/* Amélioration de la couleur des titres h1 pour une meilleure lisibilité */
+
+h1 {
+    font-size: 36px;
+    line-height: 48px;
+    color: #1a1a1a; /* Couleur plus sombre et contrastée */
+    font-weight: 700; /* Poids de police plus épais */
+}
+
+/* Amélioration spécifique pour les h1 dans le slider */
+.cd-hero-slider h1,
+#main-slide h1,
+.slider-content h1 {
+    color: #ffffff !important;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); /* Ombre plus prononcée */
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+/* H1 dans les sections avec arrière-plan sombre */
+.parallax h1,
+.footer h1,
+.testimonial h1,
+.facts-wrapper h1 {
+    color: #ffffff !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* H1 dans les sections avec arrière-plan clair */
+.portfolio h1,
+.service h1,
+.about-message h1,
+section h1 {
+    color: #1a1a1a !important;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+/* H1 dans les bannières de sous-pages */
+.banner-title-content h1 {
+    color: #ffffff !important;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.9);
+    font-weight: 800;
+    letter-spacing: 1.5px;
+}
+
+/* H1 dans les pages d'erreur */
+.error-page h1 {
+    color: #1a1a1a !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* H1 dans les formulaires de contact */
+.contact-info h1,
+.contact-info-inner h1 {
+    color: #ffffff !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+/* Amélioration pour les très petits écrans */
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 28px !important;
+        line-height: 36px !important;
+        font-weight: 700;
+    }
+    
+    .cd-hero-slider h1,
+    .banner-title-content h1 {
+        font-size: 24px !important;
+        line-height: 32px !important;
+        text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+    }
+}
+
+/* Amélioration pour les écrans moyens */
+@media only screen and (max-width: 767px) {
+    h1 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    
+    .cd-hero-slider h1,
+    .banner-title-content h1 {
+        font-size: 28px !important;
+        line-height: 36px !important;
+    }
+}
+
+/* Styles spécifiques selon les presets de couleur */
+/* Ces règles s'adaptent automatiquement aux thèmes de couleur */
+
+/* Pour les sections call-to-action */
+.call-to-action h1 {
+    color: #ffffff !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    font-weight: 700;
+}
+
+/* Pour les sections avec overlay */
+.overlay h1,
+.overlay2 h1 {
+    color: #ffffff !important;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+    font-weight: 800;
+}
+
+/* Amélioration du contraste pour l'accessibilité */
+.high-contrast h1 {
+    color: #000000 !important;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 5px 10px;
+    border-radius: 3px;
 }
