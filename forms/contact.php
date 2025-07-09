@@ -1,7 +1,7 @@
 <?php
 
 $array = array("name" => "", "email" => "", "phone" => "", "message" => "", "nameError" => "", "emailError" => "", "phoneError" => "", "messageError" => "", "isSuccess" => false);
-$emailTo = "contact@oaliv.com";
+$emailTo = "info@oaliv.com";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $array["name"] = test_input($_POST["name"]);
