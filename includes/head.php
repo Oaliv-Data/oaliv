@@ -87,16 +87,13 @@
 <link rel="dns-prefetch" href="//www.googletagmanager.com">
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SFXL464BRV"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WQ145P72HN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-    dataLayer.push(arguments);
-  }
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-SFXL464BRV');
+  gtag('config', 'G-WQ145P72HN');
 </script>
 
 <!-- Schema.org Structured Data -->
