@@ -1,60 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<!-- Page d'accueil - Priorité maximale -->
-<url>
-    <loc>https://www.oaliv.com/</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.00</priority>
-</url>
-
-<!-- Pages principales - Haute priorité -->
-<url>
-    <loc>https://www.oaliv.com/nos-services</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
-</url>
 
 <url>
-    <loc>https://www.oaliv.com/nos-realisations</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+  <loc>https://www.oaliv.com/</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.oaliv.com/nos-services</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oaliv.com/nos-realisations</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oaliv.com/a-propos-de-nous</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oaliv.com/carrieres</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oaliv.com/contact</loc>
+  <lastmod>2025-07-09T00:24:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
-<url>
-    <loc>https://www.oaliv.com/contact</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-</url>
-
-<!-- Pages secondaires -->
-<url>
-    <loc>https://www.oaliv.com/a-propos-de-nous</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>quarterly</changefreq>
-    <priority>0.70</priority>
-</url>
-
-<url>
-    <loc>https://www.oaliv.com/carrieres</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-</url>
-
-<!-- Redirections legacy pour compatibilité -->
-<url>
-    <loc>https://www.oaliv.com/home</loc>
-    <lastmod>2025-07-08T03:05:08+00:00</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.10</priority>
-</url>
 
 </urlset>
