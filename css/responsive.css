@@ -569,3 +569,16 @@
 
 
 }
+
+/* Espacement mobile pour les boutons de call-to-action */
+@media only screen and (max-width: 767px) {
+    .parallax1 .btn + .btn {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    
+    .parallax1 .btn {
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
