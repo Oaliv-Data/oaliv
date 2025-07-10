@@ -106,12 +106,12 @@
 						<div class="col-sm-3 website development isotope-item">
 							<div class="grid">
 								<figure class="effect-oscar">
-									<img src="images/portfolio/ludoviccreative.png" alt="Ludovic Creative">
-									<img src="images/portfolio/ludoa.png" alt="Ludovic Creative">
+									<img src="images/portfolio/ludovicdev.png" alt="Ludovic Dev">
+									<img src="images/portfolio/ludoa.png" alt="Ludovic Dev">
 									<figcaption>
-										<h3>Ludovic Creative</h3>
-										<a class="link icon-pentagon" href="https://ludoviccreative.com/"><i class="fa fa-link"></i></a>
-										<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/ludoviccreative.png"><i class="fa fa-search"></i></a>
+										<h3>Ludovic Dev</h3>
+										<a class="link icon-pentagon" href="https://ludovicdev.com/"><i class="fa fa-link"></i></a>
+										<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/ludovicdev.png"><i class="fa fa-search"></i></a>
 									</figcaption>
 								</figure>
 							</div>
