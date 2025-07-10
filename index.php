@@ -360,12 +360,12 @@
 						<div class="col-sm-3 website isotope-item">
 							<div class="grid">
 								<figure class="effect-oscar">
-									<img src="images/portfolio/yoursever.png" alt="Yours Ever">
-									<img src="images/portfolio/yoursa.png" alt="Yours Ever">
+									<img src="images/portfolio/ludovicmoyo.png" alt="Ludovic MOYO">
+									<img src="images/portfolio/ludovicmoyoa.png" alt="Ludovic MOYO">
 									<figcaption>
-										<h3>Yours Ever</h3>
-										<a class="link icon-pentagon" href="https://your-sever.com/"><i class="fa fa-link"></i></a>
-										<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/yoursever.png"><i class="fa fa-search"></i></a>
+										<h3>Ludovic MOYO</h3>
+										<a class="link icon-pentagon" href="https://portfolio.ludovicdev.com/"><i class="fa fa-link"></i></a>
+										<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/ludovicmoyo.png"><i class="fa fa-search"></i></a>
 									</figcaption>
 								</figure>
 							</div>
