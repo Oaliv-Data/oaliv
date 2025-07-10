@@ -4,30 +4,30 @@
             <h3 class="widget-title">Post récents</h3>
             <div class="latest-post-items media">
                 <div class="latest-post-content media-body">
-                    <h4><a href="https://www.oaliv.com/blog/guide-lancer-boutique-ligne-cameroun/">Guide Complet pour Lancer Votre Boutique en Ligne au Cameroun</a></h4>
+                    <h4><a href="https://www.ludovicdev.com/green-it-guide-numerique-responsable/">Green IT : guide complet des bonnes pratiques numériques</a></h4>
                     <p class="post-meta">
                         <span class="author">Par Ludovic Dev</span>
-                        <span class="post-meta-cat">Sur le<a href="https://www.oaliv.com/blog/"> Blog</a></span>
+                        <span class="post-meta-cat">Sur le<a href="https://www.ludovicdev.com/"> Blog</a></span>
                     </p>
                 </div>
             </div><!-- 1st Latest Post end -->
 
             <div class="latest-post-items media">
                 <div class="latest-post-content media-body">
-                    <h4><a href="https://www.oaliv.com/blog/transition-numerique-cameroun-cles-succes/">Les Clés d’une Transition Réussie vers la Transformation Numérique au Cameroun</a></h4>
+                    <h4><a href="https://www.ludovicdev.com/bien-etre-guide-pour-un-equilibre-tech-sain/">Bien-être numérique : guide pour un équilibre tech sain</a></h4>
                     <p class="post-meta">
                         <span class="author">Par Ludovic Dev</span>
-                        <span class="post-meta-cat">Sur le<a href="https://www.oaliv.com/blog/"> Blog</a></span>
+                        <span class="post-meta-cat">Sur le<a href="https://www.ludovicdev.com/"> Blog</a></span>
                     </p>
                 </div>
             </div><!-- 1st Latest Post end -->
 
             <div class="latest-post-items media">
                 <div class="latest-post-content media-body">
-                    <h4><a href="https://www.oaliv.com/blog/guide-medias-sociaux-entrepreneurs-camerounais-maximisez-presence-ligne/">Guide Complet des Médias Sociaux pour les Entrepreneurs Camerounais </a></h4>
+                    <h4><a href="https://www.ludovicdev.com/consommation-energetique-des-entreprises/">Le rôle des TIC dans la transition écologique </a></h4>
                     <p class="post-meta">
                         <span class="author">Par Ludovic Dev</span>
-                        <span class="post-meta-cat">Sur le<a href="https://www.oaliv.com/blog/"> Blog</a></span>
+                        <span class="post-meta-cat">Sur le<a href="https://www.ludovicdev.com/"> Blog</a></span>
                     </p>
                 </div>
             </div><!-- 1st Latest Post end -->
